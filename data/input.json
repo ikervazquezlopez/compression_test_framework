@@ -1,0 +1,6 @@
+[
+  {"name" : "test_process",
+   "cmd": "python process.py {input} [params]",
+   "inputs": ["data/input_img_0.png","data/input_img_1.png","data/input_img_2.png"],
+   "output_dir": "data/output/"}
+]
